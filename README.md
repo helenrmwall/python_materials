@@ -1,1 +1,1 @@
-# python_materials
+# Rice MBA Python materials
